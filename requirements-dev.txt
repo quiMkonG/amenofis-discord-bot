@@ -1,0 +1,4 @@
+-r requirements.txt
+
+ipdb==0.13.7
+python-dotenv==0.17.1
